@@ -1,0 +1,19 @@
+Wednesday March 13, 2019
+This is a reflection of the preliminary thinking typically done prior to
+actually completing any code in the given python assignment. This is specific
+to lab 8 Exercise 6.1 (design, palindrome.py), as per request via the pdf.
+
+Given that the function needs to be recursive it would be simplest to first
+compare the first and the last elements in the string. Then call the same
+function for a sub-string made up of all elements minus the first and last
+elements.
+
+pseudo code:
+
+letter_comp(word)
+    if size(word) < 2
+        true
+    else if (word[first] = word[last])
+        letter_comp(word - word[first] - word[last])
+    else
+        false

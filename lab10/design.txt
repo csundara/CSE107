@@ -1,0 +1,19 @@
+Monday April 8, 2019
+This is a reflection of the preliminary thinking typically done prior to
+actually completing any code in the given python assignment. This is specific
+to lab 10 Exercise 5.2 (design, piglatin.py), as per request via the pdf.
+
+Not sure how to setup the program so it can take a filename and my code to
+write to. Will probably execute that last. Going to start with single word
+translation then use that function to conduct full sentence translation.
+
+def trans_word(word)
+    if word[1] is vowel
+        return word + 'way'
+    else
+        return word[2:] + word[1] + 'ay'
+
+
+Note:
+strip() in piglatin.py does nothing
+turtle stuck in infinite loop in navigate3.py

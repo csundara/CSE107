@@ -1,0 +1,11 @@
+Wednesday March 6, 2019
+Python Notes
+Algorithms and data structures
+
+talking about stacks (LIFO)
+Now hitting on Queues (FIFO)
+linked lists
+Trees!
+Graphs
+
+Ok, gear shift: reverse polish notation (postfix)

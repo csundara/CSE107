@@ -1,0 +1,44 @@
+Friday April 19, 2019
+This is a reflection of the preliminary thinking typically done prior to
+actually completing any code in the given python assignment. This is specific
+to Final Project: Contacts, as per request via the pdf.
+
+It looks like the client wants an app that organizes their contacts and makes
+the information in their contact list easily accessible. The main function
+will manage user input and requests. Each user command will be executed by
+writing a function per command and will be set up to be called using a series
+of is statements and a while loop. All information will be stored in a
+dictionary
+
+pseudo code:
+
+about()
+    print
+
+info()
+    print
+    print
+
+list()
+    print
+
+remove()
+    change list
+    return dictionary
+
+main()
+    welcome! input
+    while(input != exit)
+        if(about)
+            about()
+        elif(info)
+            info()
+        elif(list)
+            list()
+        elif(remove)
+            input_who
+            remove(input_who)
+        else
+            error
+        new input
+        

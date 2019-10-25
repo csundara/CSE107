@@ -1,0 +1,22 @@
+Monday March 1, 2019
+This is a reflection of the preliminary thinking typically done prior to
+actually completing any code in the given python assignment. This is specific
+to lab 9 Exercise 3.2 (design, simplediff.py), as per request via the pdf.
+
+For this exercise: first, I'll open the files with the read option. Next, I'll
+read one line from each file at a time and compare them. If they are the same,
+move on. If not, I'll print them.
+
+pseudo code:
+open(file1, 'r')
+open(file2, 'r')
+
+linef1 = file1.readline()
+linef2 = file2.readline()
+
+while linef1 && linef2:
+    if linef1 != linef2:
+        print(linef1)
+        print(linef2)
+    linef1 = file1.readline()
+    linef2 = file2.readline()

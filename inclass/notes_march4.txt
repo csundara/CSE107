@@ -1,0 +1,17 @@
+Monday March 4, 2019
+Python, CSE 107
+
+Sets
+mutable data type with no dups or order
+
+syntax:
+set(a)
+note: a can be a string or a list or...whatever
+
+
+She's leading into dictionaries
+I think dictionaries are some kind of hash
+
+can only use immutable data types as keys in dictionaries
+
+morse code...thought she said moose...they're close

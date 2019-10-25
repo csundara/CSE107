@@ -1,0 +1,6 @@
+Monday March 11, 2019
+notes python
+
+Recursion and scoping
+
+practicing recursion using the Fibonacci series

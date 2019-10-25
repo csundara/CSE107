@@ -1,0 +1,45 @@
+Contacts App. Developed by Chandra Sundaram for CSE107 2019
+
+Contacts manages and tracks a user's contact list by storing a contact's name,
+number, company which the contact works for, email address, and an optional
+note.
+
+about():
+    prints information about the developer
+
+info(contacts):
+    Print number of contacts, print number of companies, print number of
+    contacts per company
+
+list(contacts):
+    prints all contacts in contact book as follows
+    Name:       Phone       Company  email
+    -----------------------------------------------
+
+
+remove(contacts):
+    Removes contacts from list. If contact does not exist in list, informs user
+    and returns to main menu.
+
+note(contacts):
+    Allows user to view or edit note for given contact
+
+def save(contacts):
+    writes contacts to a CSV file
+
+def load(contacts):
+    loads contacts from a CSV file
+
+def commands(contacts):
+    parses .txt file and puts into contacts
+
+add_contact(contacts):
+    Adds new contacts to contact book. Asks user for new contact's name, number,
+    the company he/she works for, email address, and if the user would like to
+    make a note for this contact.
+
+        if command == 'load':
+            print('under construction')
+        if command == 'save':
+            print('under construction')
+        command = input('Please enter a command: ')

@@ -1,0 +1,16 @@
+# boiler plate
+
+# import
+def new_func():
+    """ additional functions """
+
+
+def main():
+    # main function
+
+
+if __name__ == "__main__":
+    main()
+
+#tar
+tar czvf cse107_chandra_sundaram_lab0.tar.gz

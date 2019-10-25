@@ -1,0 +1,22 @@
+Script started on 2019-01-23 13:24:32-0700
+]0;chandra@thagaste: ~/Documents/python/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0[00m$ pwd
+/home/chandra/Documents/python/lab0
+]0;chandra@thagaste: ~/Documents/python/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0[00m$ touch first.py
+]0;chandra@thagaste: ~/Documents/python/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0[00m$ mkdir lab0
+]0;chandra@thagaste: ~/Documents/python/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0[00m$ touch test1
+]0;chandra@thagaste: ~/Documents/python/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0[00m$ touch test2[K[K[K[K[K[K[K[K[K[K[Krm test1
+]0;chandra@thagaste: ~/Documents/python/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0[00m$ cd lab0/
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ touch test1
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ te[K[Ktouch test2
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ touch .hideme
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  .hideme  test1  test2
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ rm test1
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ mak[K[Kkdir testfiles
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ mv test2 testfiles/
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  .hideme  [01;34mtestfiles[0m
+]0;chandra@thagaste: ~/Documents/python/lab0/lab0[01;32mchandra@thagaste[00m:[01;34m~/Documents/python/lab0/lab0[00m$ exit
+exit
+
+Script done on 2019-01-23 13:29:54-0700

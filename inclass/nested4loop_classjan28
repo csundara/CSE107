@@ -1,0 +1,6 @@
+for i in range(3):
+    print("---outer for begin---")
+    for j in range(2):
+        print("***inner for begin***")
+        print(str(i) + "*" + str(j) + "=" + str(i*j))
+    print("***inner for end***")

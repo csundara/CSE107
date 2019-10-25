@@ -1,0 +1,7 @@
+Friday March 8, 2019
+Python Notes
+Stacks
+
+taking about stacks and scoping in more detail
+Mentioned half of the final will have similar questions to the midterm.
+Talking about functions and parameters

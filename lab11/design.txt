@@ -1,0 +1,7 @@
+Wednesday April 10, 2019
+This is a reflection of the preliminary thinking typically done prior to
+actually completing any code in the given python assignment. This is specific
+to lab 11 Exercise 4.2(design, scorehist.py), as per request via the pdf.
+
+For this histogram I'll need to import the act scores in as lists. Then I'll
+count how many averages are in each score range and plot the found information.
